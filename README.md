@@ -7,7 +7,7 @@
 ANSWER: You would receive a compiler error, as scope defines the limits of responsibility for a given code block. If the code is not within scope, it is essentially unreachable by other pieces of code.  
 
 2. Describe the three As of a test:
-3. 
+   
 A -   Arrange: setting up the test and the initital conditions for the test, if not set up properly, it would be difficult to find the specific purpose of the code, and would be very unreliable, or not work at all.
 
 A -   Act: the behavior or action is being executed, if not made properly, it will not do its expected purpose, making the test pointless.
