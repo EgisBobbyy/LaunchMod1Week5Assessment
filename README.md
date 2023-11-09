@@ -1,22 +1,29 @@
 # Mod 1 Week 5 Assessment
 
 ## Questions (10 Points Possible)
+
 1. What would happen if you try to use a variable that is not in scope?
 
 ANSWER: You would receive a compiler error, as scope defines the limits of responsibility for a given code block. If the code is not within scope, it is essentially unreachable by other pieces of code.  
 
-2. Describe the three As of a test:  
+2. Describe the three As of a test:
+3. 
 A -   Arrange: setting up the test and the initital conditions for the test, if not set up properly, it would be difficult to find the specific purpose of the code, and would be very unreliable, or not work at all.
+
 A -   Act: the behavior or action is being executed, if not made properly, it will not do its expected purpose, making the test pointless.
+
 A -   Assert: validifies the action that is supposed to happen within the code, if not done, there will be no confirmation that the code is working as intended.
 
-3. What is the difference between `public` and `private` access modifiers?
+4. What is the difference between `public` and `private` access modifiers?
 
 ANSWER: A 'public' access modifier can be accessed from outside the class, while a 'private' may only be accessed from within the class. This is an essential part of 'scope' mentioned earlier, assigning responsibilites of what can be accessed from where.
 
 5. A method should:  (**Select all that apply**) <br/>
+
 (A) Make changes to an object  <====
+
 (B) Return some information about an object  <====
+
 (C) Make changes to an object and return information about the object.  
 (D) None of the Above.  
 
