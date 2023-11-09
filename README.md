@@ -27,6 +27,7 @@ ANSWER: A 'public' access modifier can be accessed from outside the class, while
 (C) Make changes to an object and return information about the object.  
 (D) None of the Above.  
 
+ANSWER: (A) and (B).
 
 6. How did you determine what to answer for the question above?
 
